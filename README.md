@@ -1,6 +1,6 @@
 ### Hello There! 👾🎮👨‍💻
 
-[lukasu92 GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasu92&show_icons=true&theme=dracula)](https://github.com/lukasu92/github-readme-stats)
+[lukasu92 GitHub stats(https://github-readme-stats.vercel.app/api?username=lukasu92&show_icons=true&theme=dracula)](https://github.com/lukasu92/github-readme-stats)
 
 <div style="display: inline_block"><br>  
   <img align="center" alt="lucas-sap" height="30" width="40" src="https://www.svgrepo.com/show/331567/sap.svg">
